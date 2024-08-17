@@ -25,9 +25,12 @@ Welcome to my GitHub profile! I'm Rahul Soundrarajan, a seasoned professional wi
 - **Patents & Publications**: Holder of multiple patents in ML for Telecom, with several technical publications and whitepapers that contribute to the body of knowledge in the field.
 
 ### 📚 Research & Innovation
-- **Technical Summaries**: I regularly publish summaries of cutting-edge research papers from arXiv, focusing on their implications and potential applications in Telecom and AI/ML.
-- **Patents & IP**: Explore my patents related to ML-driven network optimization, sensor fusion, and more.
-- **Start-Up Experience**: Insights from my entrepreneurial journey, including lessons learned and strategies for success in tech-driven ventures.
+- **[Technical Summaries](https://rahulsound.streamlit.app/Research#summary-in-bullets/)**: I regularly publish summaries of cutting-edge research papers from arXiv, focusing on their implications and potential applications in Telecom and AI/ML.
+- **[Patents & IP](https://rahulsound.streamlit.app/Patents/)**: Explore my patents related to ML-driven network optimization, sensor fusion, and more.
+- **[Start-Up Experience](https://rahulsound.streamlit.app/A_StartupFounder/)**: Insights from my entrepreneurial journey, including lessons learned and strategies for success in tech-driven ventures.
+- **[Data Analytics for Telecom](https://rahulsound.streamlit.app/~/+/Research##eda-telecom)**: Want to try out exploratory analysis on your data? Click and check-out!
+- **[My blog](https://rahulsound.streamlit.app/~/+/Research##articles-on-medum)**: Check out my articles especially on AI/ML in Telecom
+
 
 ### 🌐 Connect with Me
 - **[Homepage](https://rahulsound.streamlit.app/)**: Explore my detailed portfolio, including AI/ML projects, research summaries, patents, and more.
