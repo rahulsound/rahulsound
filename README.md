@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm Rahul Soundrarajan, a seasoned professional wi
 ### 📚 Research & Innovation
 - **[Technical Summaries](https://rahulsound.streamlit.app/Research#summary-in-bullets/)**: I regularly publish summaries of cutting-edge research papers from arXiv, focusing on their implications and potential applications in Telecom and AI/ML.
 - **[Patents & IP](https://rahulsound.streamlit.app/Patents/)**: Explore my patents related to ML-driven network optimization, sensor fusion, and more.
-- **[Start-Up Experience](https://rahulsound.streamlit.app/A_StartupFounder/)**: Insights from my entrepreneurial journey, including lessons learned and strategies for success in tech-driven ventures.
+- **[Start-Up Experience](https://rahulsound.streamlit.app/A_StartupFounder/)**: Insights from my entrepreneurial journey, the background research, rapid prototyping outputs... 
 - **[Data Analytics for Telecom](https://rahulsound.streamlit.app/~/+/Research##eda-telecom)**: Want to try out exploratory analysis on your data? Click and check-out!
 - **[My blog](https://rahulsound.streamlit.app/~/+/Research##articles-on-medum)**: Check out my articles especially on AI/ML in Telecom
 
@@ -31,8 +31,8 @@ Welcome to my GitHub profile! I'm Rahul Soundrarajan, a seasoned professional wi
 - **Email**: rahulsound@outlook.com
 
 ### 📝 Latest Projects
-- **[EXPLORA: AI/ML EXPLainability for Open RAN](https://github.com/your-repo-link)**: A collaborative project focused on AI/ML explainability in network slicing and scheduling.
-- **[Multi-modal Sensor Fusion](https://github.com/your-repo-link)**: A first-of-its-kind sensor fusion algorithm combining radar and camera data for enhanced object detection and classification.
+- **[EXPLORA: AI/ML EXPLainability for Open RAN](https://explora-ai-explainability.streamlit.app/)**: A collaborative project focused on AI/ML explainability in network slicing and scheduling.
+- **[Multi-modal Sensor Fusion](https://github.com/rahulsound/radcamfusion/blob/main/demo-v1.gif)**: A first-of-its-kind sensor fusion algorithm combining radar and camera data for enhanced object detection and classification.
 
 ### 👯 Collaboration & Community
 - **Open Source Contributions**: Actively contributing to open-source projects in AI/ML and Telecom. I'm always open to collaborations that align with my expertise.
